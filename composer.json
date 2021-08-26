@@ -1,0 +1,16 @@
+{
+    "name": "tomda/router",
+    "description": "router",
+    "authors": [
+        {
+            "name": "Tom Da Cunha",
+            "email": "dacunha.tom@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
